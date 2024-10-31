@@ -1,7 +1,7 @@
 # InduwaraMihisara
 This is the home page of my profile!
 
-But I had to do more changes!
+There were some changes.
 
 But We do not need changes.
 
